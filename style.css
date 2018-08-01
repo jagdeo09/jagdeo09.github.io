@@ -1,0 +1,39 @@
+.row{   
+    display: flex;
+    justify-content: space-around;
+    background-color:#88a0a1;
+    color: white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color: #c4c4d4;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    color: #538195;
+}
+.headshot{
+    border-radius: 50%;
+}
+img{
+    width: 100%;
+}
+a:visited{
+    color: white;
+}
+a:link{
+    color: white;
+}
